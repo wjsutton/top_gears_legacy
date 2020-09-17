@@ -2,7 +2,7 @@
   Top Gear's Legacy 
 </h1>
 
-[![Status](https://www.repostatus.org/badges/latest/wip.svg)]() [![GitHub Issues](https://img.shields.io/github/issues/wjsutton/fastest_marathon_dressed_as.svg)](https://github.com/wjsutton/fastest_marathon_dressed_as/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/wjsutton/fastest_marathon_dressed_as.svg)](https://github.com/wjsutton/fastest_marathon_dressed_as/pulls) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+[![Project Status: Abandoned – Initial development has started, but there has not yet been a stable, usable release; the project has been abandoned and the author(s) do not intend on continuing development.](https://www.repostatus.org/badges/latest/abandoned.svg)](https://www.repostatus.org/#abandoned) [![GitHub Issues](https://img.shields.io/github/issues/wjsutton/fastest_marathon_dressed_as.svg)](https://github.com/wjsutton/fastest_marathon_dressed_as/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/wjsutton/fastest_marathon_dressed_as.svg)](https://github.com/wjsutton/fastest_marathon_dressed_as/pulls) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 A data extract of Top Gear and the Grand Tour's IMDB ratings by episode for a data viz project.
 
@@ -16,6 +16,11 @@ Quick Link
 [LinkedIn]:https://www.linkedin.com/in/will-sutton-14711627/
 [GitHub]:https://github.com/wjsutton
 [Website]:https://wjsutton.github.io/
+
+### :-1: Abandoning Repo
+
+While I believe there is some interesting in a workflows for IMDB data and Top Gear/The Grand Tour is a reasonable example, the story behind the data (negative reaction by fans for a change in casting) lacks any calls to action other than highlighting an underperforming cast. For this reason I don't feel the story is worth sharing in a visual format.
+
 
 ### :a: About
 
